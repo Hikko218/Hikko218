@@ -38,5 +38,5 @@ Planned core features:
 ---
 
 ## 🌐 Contact
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heiko%20Ries-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heiko-ries-b35778374)
-🔗 [![My Website](https://img.shields.io/badge/My%20Website-Live-green?style=flat-square&logo=vercel)](https://webpage-1-8je9.onrender.com) *(Modern rework in progress)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heiko%20Ries-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heiko-ries-b35778374)
+[![My Website](https://img.shields.io/badge/My%20Website-Live-green?style=flat-square&logo=vercel)](https://webpage-1-8je9.onrender.com) *(Modern rework in progress)*
