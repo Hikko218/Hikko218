@@ -45,6 +45,13 @@ A full-stack app with admin dashboard, contact form, file upload, SEO & error tr
 
 ---
 
+## 📚 Currently in development
+- 🗒️ Developing a full-stack Notes Web App
+  → Includes notes CRUD, user authentication (JWT), protected routes, and more
+- 🛠  Check progress: [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hikko218/Notes-Web-App)
+
+---
+
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heiko%20Ries-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heiko-ries-b35778374)
 [![My Website](https://img.shields.io/badge/Live-Vercel-000?logo=vercel)](https://my-portfolio-henna-one-36.vercel.app/)
