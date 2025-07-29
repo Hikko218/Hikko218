@@ -7,16 +7,21 @@ Currently transitioning into full-stack development, I focus on building modern 
 
 ---
 
-## ⚙️ My Portfolio v1.0 is currently in development
+## 🚀 About Me
 
-[![Roadmap](https://img.shields.io/badge/Project-Roadmap-blueviolet?style=flat-square&logo=github)](https://github.com/users/Hikko218/projects/5)
+- 🧰 Background in mechanical engineering & team leadership  
+- 🧠 Self-taught developer
+- 🎯 Currently focused on building full-stack apps (REST APIs, SSR, CI/CD)  
+- ✨ Passion for clean UI, accessibility, and strong architecture  
 
-Planned core features:
-- Admin panel with file uploads
-- Blog section with editor
-- Auth (JWT) & route protection
-- Docker & CI/CD setup
-- Accessibility & SEO optimization
+---
+
+## ⚙️ My Portfolio v1.0 
+
+[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000?logo=vercel)](https://my-portfolio-henna-one-36.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hikko218/My-Portfolio)
+
+A full-stack app with admin dashboard, contact form, file upload, SEO & error tracking – built with **Next.js**, **NestJS**, **Tailwind CSS**, and more.
 
 ---
 
@@ -24,19 +29,22 @@ Planned core features:
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-red?logo=nestjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Design-38BDF8?logo=tailwindcss)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions)
 
-## 🛠️ Skills & Tools
+---
 
-- Full-stack development with REST APIs & SSR
-- Git, GitHub Projects, Markdown, CI workflows
-- Accessibility (WCAG), SEO, responsive design
-- Sentry (monitoring), Postman, Insomnia
+## 📚 Currently Learning
+
+- 🧪 Test-driven development (Jest, Supertest)
+- 🧩 Advanced full-stack concepts (Next.js, NestJS)
+- ☁️ Deployment & infrastructure (Vercel, Render, CI/CD pipelines)  
+- 🛒 Building new projects: Notes App & Grocery Store (full CRUD + Auth)
 
 ---
 
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heiko%20Ries-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heiko-ries-b35778374)
-[![My Website](https://img.shields.io/badge/My%20Website-Live-green?style=flat-square&logo=vercel)](https://webpage-1-8je9.onrender.com) *(Modern rework in progress)*
+[![My Website](https://img.shields.io/badge/Live-Vercel-000?logo=vercel)](https://my-portfolio-henna-one-36.vercel.app/)
