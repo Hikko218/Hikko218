@@ -46,9 +46,20 @@ A full-stack app with admin dashboard, contact form, file upload, SEO & error tr
 ---
 
 ## 📚 Currently in development
-- 🗒️ Developing a full-stack Notes Web App
-- 🔹 Features: notes CRUD, JWT-based authentication, protected routes and more  
-- 🛠  Check progress: [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hikko218/Notes-Web-App)
+
+### 🛒 Full-Stack Grocery Store Web App
+-  A modern grocery store application built to improve my skills in frontend/backend integration, state management, and user interaction
+
+- 🔹 Key Features
+-  Product browsing with categories
+-  Interactive shopping cart
+-  Basic order flow
+-  Simple admin panel for managing products
+  
+- 🔧 Project Goals
+- Learn to structure a real-world full-stack app from scratch, including authentication, routing, and dynamic data handling
+
+- 🛠  Check progress: [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hikko218/Grocery-Store)
 
 ---
 
