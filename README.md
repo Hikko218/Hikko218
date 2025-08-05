@@ -25,6 +25,15 @@ A full-stack app with admin dashboard, contact form, file upload, SEO & error tr
 
 ---
 
+## 📝 Notes Web App v1.0 
+
+[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000?logo=vercel)](https://notes-web-app-tan.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hikko218/Notes-Web-App)
+
+A full-stack Notes app built with NestJS, Next.js, and PostgreSQL, featuring secure authentication, folder-based organization, powerful search, and a clean Tailwind CSS UI.
+
+---
+
 ## 🛠 Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-red?logo=nestjs)
