@@ -16,6 +16,17 @@ Currently transitioning into full-stack development, I focus on building modern 
 
 ---
 
+## 🛠 Tech Stack
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-red?logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Design-38BDF8?logo=tailwindcss)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions)
+
+---
+
 ## ⚙️ My Portfolio v1.0 
 
 [![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000?logo=vercel)](https://my-portfolio-henna-one-36.vercel.app/)
@@ -31,17 +42,6 @@ A full-stack app with admin dashboard, contact form, file upload, SEO & error tr
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hikko218/Notes-Web-App)
 
 A full-stack Notes app built with NestJS, Next.js, and PostgreSQL, featuring secure authentication, folder-based organization, powerful search, and a clean Tailwind CSS UI.
-
----
-
-## 🛠 Tech Stack
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-red?logo=nestjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Design-38BDF8?logo=tailwindcss)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions)
 
 ---
 
