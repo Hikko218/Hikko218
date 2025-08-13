@@ -57,9 +57,10 @@ A full-stack Notes app built with NestJS, Next.js, and PostgreSQL, featuring sec
 
 ## 📚 Currently Learning
 
-- 🧪 Test-driven development (Jest, Supertest)
-- 🧩 Advanced full-stack concepts (Next.js, NestJS)
-- ☁️ Deployment & infrastructure (Vercel, Render, CI/CD pipelines)  
+- ☁️ AWS Cloud Practitioner Essentials & core services (EC2, S3, RDS, CloudFront)
+- 🛠️ Deploying full-stack applications on AWS (ECS, Elastic Beanstalk)
+- 🔒 Cloud security fundamentals (IAM, best practices)
+- 🐍 Python for Cloud Engineers (automation, scripting, AWS SDK)
 
 ---
 
