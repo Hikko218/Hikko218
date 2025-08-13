@@ -3,16 +3,18 @@
 I'm a career changer in web development with a technical background and leadership experience  
 as a team and training manager in mechanical engineering.
 
-Currently transitioning into full-stack development, I focus on building modern web applications using **Next.js**, **NestJS**, and **PostgreSQL**.
+Starting with modern full-stack development (**Next.js**, **NestJS**, **PostgreSQL**, **Prisma**),  
+I am now expanding my skill set into **Cloud Engineering with AWS** to build scalable, secure, and production-ready applications.
 
 ---
 
 ## 🚀 About Me
 
 - 🧰 Background in mechanical engineering & team leadership  
-- 🧠 Self-taught developer
-- 🎯 Currently focused on building full-stack apps (REST APIs, SSR, CI/CD)  
-- ✨ Passion for clean UI, accessibility, and strong architecture  
+- 🧠 Self-taught developer with hands-on project experience  
+- ☁️ Currently learning AWS (Cloud Practitioner Essentials, EC2, S3, RDS, IAM)  
+- 🧩 Full-stack expertise: REST APIs, SSR, CI/CD, testing (Jest, Supertest)  
+- ✨ Passion for clean UI, accessibility, and strong architecture
 
 ---
 
