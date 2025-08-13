@@ -36,6 +36,16 @@ A full-stack app with admin dashboard, contact form, file upload, SEO & error tr
 
 ---
 
+## 🛒 Grocery Store v1.0 
+
+[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000?logo=vercel)](https://grocery-store-ckfe.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hikko218/Grocery-Store)
+
+A modern, **end‑to‑end** TypeScript shop with **Next.js**, **NestJS**, **Prisma** and **PostgreSQL**.  
+Includes **role‑based authentication**, an **admin dashboard**, robust **checkout flow** with cart persistence, and a clean, typed API.
+
+---
+
 ## 📝 Notes Web App v1.0 
 
 [![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000?logo=vercel)](https://notes-web-app-tan.vercel.app/)
@@ -50,25 +60,6 @@ A full-stack Notes app built with NestJS, Next.js, and PostgreSQL, featuring sec
 - 🧪 Test-driven development (Jest, Supertest)
 - 🧩 Advanced full-stack concepts (Next.js, NestJS)
 - ☁️ Deployment & infrastructure (Vercel, Render, CI/CD pipelines)  
-- 🛒 Building new projects: Notes App & Grocery Store (full CRUD + Auth)
-
----
-
-## 📚 Currently in development
-
-### 🛒 Full-Stack Grocery Store Web App
--  A modern grocery store application built to improve my skills in frontend/backend integration, state management, and user interaction
-  
-🔹 Key Features
--  Product browsing with categories
--  Interactive shopping cart
--  Basic order flow
--  Simple admin panel for managing products
-
-🔧 Project Goals
-- Learn to structure a real-world full-stack app from scratch, including authentication, routing, and dynamic data handling
-
-- 🛠  Check progress: [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hikko218/Grocery-Store)
 
 ---
 
