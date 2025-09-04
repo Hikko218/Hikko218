@@ -22,7 +22,7 @@ Through my [Cloud Portfolio](https://github.com/Hikko218/Cloud-Portfolio-AWS), I
 ECS Fargate · RDS · ALB (HTTPS/ACM)  
 👉 [Project Repo](https://github.com/Hikko218/Cloud-Portfolio-AWS/tree/main/01-ha-webapp)  
 
-### 2. Secure VPC Architecture *(in progress)*  
+### 2. Secure VPC Architecture ✅  
 VPC with Public/Private Subnets · Session Manager · Flow Logs  
 👉 [Project Repo](https://github.com/Hikko218/Cloud-Portfolio-AWS/tree/main/02-secure-vpc)  
 
