@@ -26,7 +26,7 @@ ECS Fargate · RDS · ALB (HTTPS/ACM)
 VPC with Public/Private Subnets · Session Manager · Flow Logs  
 👉 [Project Repo](https://github.com/Hikko218/Cloud-Portfolio-AWS/tree/main/02-secure-vpc)  
 
-### 3. Cloud Storage & Monitoring *(in progress)*  
+### 3. Cloud Storage & Monitoring ✅ 
 S3 (Versioning, Lifecycle) · CloudFront · CloudWatch Dashboards · GuardDuty  
 👉 [Project Repo](https://github.com/Hikko218/Cloud-Portfolio-AWS/tree/main/03-s3-monitoring)  
 
