@@ -37,7 +37,7 @@ Full automation of projects 1–3 with Terraform
 ---
 
 ## 📚 Certifications  
-- AWS Cloud Practitioner *(in progress)*  
+- AWS Cloud Practitioner 
 - AWS Solutions Architect – Associate *(in progress)*  
 
 ---
