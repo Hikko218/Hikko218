@@ -1,56 +1,64 @@
-# 💻 Hi, I'm Heiko Ries
+💻 Hi, I'm Heiko Ries  
 
-I'm a career changer specializing in **Cloud Infrastructure Engineering**, with a technical background and leadership experience as a team and training manager in mechanical engineering.  
+I'm an aspiring **IT Administrator** with a strong interest in **Microsoft hybrid infrastructure, networking, and cloud integration**.  
+Coming from a background in **mechanical engineering and leadership**, I bring a structured, hands-on approach to learning and system management.
 
-My focus is on **AWS, networking, security, monitoring, and Infrastructure as Code (Terraform)**.  
-Through my [Cloud Portfolio](https://github.com/Hikko218/Cloud-Portfolio-AWS), I demonstrate how to design, build, and automate production-ready cloud architectures.  
-
----
-
-## 🚀 About Me  
-- 🧰 Background in mechanical engineering & leadership (team & training lead)  
-- ☁️ Focus: AWS, Infrastructure, Networking, Security, IaC  
-- 📚 Currently preparing for **AWS Cloud Practitioner** & **AWS Solutions Architect – Associate**  
-- 🛠 Practical hands-on projects in **AWS + Terraform**  
-- 🧩 Technical background in full-stack development (useful for cloud-native deployments & CI/CD)  
+Through my **home lab** and certification studies, I’m building solid experience in **Windows Server administration, Active Directory, PowerShell automation**, and **network troubleshooting** — preparing for real-world IT infrastructure roles.
 
 ---
 
-## ⚙️ Cloud Projects (Portfolio)  
+🚀 **About Me**
 
-### 1. High Availability Web App Deployment ✅  
-ECS Fargate · RDS · ALB (HTTPS/ACM)  
-👉 [Project Repo](https://github.com/Hikko218/Cloud-Portfolio-AWS/tree/main/01-ha-webapp)  
-
-### 2. Secure VPC Architecture ✅  
-VPC with Public/Private Subnets · Session Manager · Flow Logs  
-👉 [Project Repo](https://github.com/Hikko218/Cloud-Portfolio-AWS/tree/main/02-secure-vpc)  
-
-### 3. Cloud Storage & Monitoring ✅ 
-S3 (Versioning, Lifecycle) · CloudFront · CloudWatch Dashboards · GuardDuty  
-👉 [Project Repo](https://github.com/Hikko218/Cloud-Portfolio-AWS/tree/main/03-s3-monitoring)  
-
-### 4. Infrastructure as Code with Terraform *(in progress)*  
-Full automation of projects 1–3 with Terraform  
-👉 [Project Repo](https://github.com/Hikko218/Cloud-Portfolio-AWS/tree/main/04-iac-terraform)  
+🧰 Background in mechanical engineering & team leadership  
+🖥️ Focus: Microsoft 365 · Windows Server · Active Directory · Networking · Cloud Integration  
+☁️ Certified: Microsoft 365 Fundamentals · AWS Cloud Practitioner · CompTIA Network+  
+🧾 Currently preparing for: Windows Server Hybrid Administrator Associate  
+🧱 Home Lab setup for hands-on learning:
+- Windows Server 2025 (GUI & Core) – domain & file management  
+- Windows 11 clients – GPO, deployment & troubleshooting  
+- Linux troubleshooting server – cross-platform networking practice  
 
 ---
 
-## 📚 Certifications  
-- AWS Cloud Practitioner 
-- AWS Solutions Architect – Associate *(in progress)*  
+⚙️ **Current Projects**
+
+1. 🧩 Windows Server Hybrid Lab  
+   Domain, file, and user management with hybrid cloud integration (Azure AD Connect)  
+   👉 *In progress – documenting setup and configurations*
+
+2. 🖧 Network Troubleshooting Practice  
+   Simulating real-world network and DNS issues within the lab environment  
+
+3. 🛠 PowerShell Automation  
+   Automating server setup and user provisioning tasks  
 
 ---
 
-## 🗂 Previous Projects (Full-Stack Background)  
+📚 **Certifications**
 
-These projects mark my early learning journey in software development. While my current focus is Cloud Infrastructure, they demonstrate my technical foundation:  
-
-- 🛒 **Grocery Store** – Full-stack shop with role-based auth, admin dashboard, checkout flow  
-- 📝 **Notes Web App** – Notes app with secure authentication, folder-based organization, search  
-- 💻 **Portfolio Website** – Personal site with dashboard, contact form, file upload  
+- Microsoft 365 Fundamentals ✅  
+- AWS Cloud Practitioner ✅  
+- CompTIA Network+ ✅  
+- Windows Server Hybrid Administrator (in progress)  
 
 ---
 
-## 🌐 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heiko%20Ries-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heiko-ries-b35778374)
+🗂 **Previous Cloud Projects**
+
+Before specializing in IT administration, I explored **AWS Cloud and Infrastructure as Code** concepts.  
+These projects reflect my foundation in **networking, cloud architecture, and automation**, which continues to support my current work.
+
+- High Availability Web App Deployment – ECS, RDS, ALB (HTTPS/ACM)  
+- Secure VPC Architecture – Public/Private Subnets, Flow Logs, IAM Policies  
+- Cloud Monitoring & Security – S3, CloudFront, CloudWatch, GuardDuty  
+- Terraform Infrastructure as Code (automation of all above)
+
+---
+
+🌐 **Contact**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/heiko-ries-b35778374)  
+
+---
+
+📄 *Currently documenting my progress toward becoming a Microsoft-focused Systems Administrator with practical hybrid infrastructure experience.*
