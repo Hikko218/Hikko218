@@ -11,8 +11,7 @@ Through my **home lab** and certification studies, I’m building solid experien
 
 🧰 Background in mechanical engineering & team leadership  
 🖥️ Focus: Microsoft 365 · Windows Server · Active Directory · Networking · Cloud Integration  
-☁️ Certified: Microsoft 365 Fundamentals · AWS Cloud Practitioner · CompTIA Network+  
-🧾 Currently preparing for: Windows Server Hybrid Administrator Associate  
+☁️ Certified: Microsoft 365 Fundamentals · AWS Cloud Practitioner · CompTIA Network+   
 🧱 Home Lab setup for hands-on learning:
 - Windows Server 2025 (GUI & Core) – domain & file management  
 - Windows 11 clients – GPO, deployment & troubleshooting  
@@ -38,8 +37,7 @@ Through my **home lab** and certification studies, I’m building solid experien
 
 - Microsoft 365 Fundamentals ✅  
 - AWS Cloud Practitioner ✅  
-- CompTIA Network+ ✅  
-- Windows Server Hybrid Administrator (in progress)  
+- CompTIA Network+ ✅   
 
 ---
 
