@@ -33,7 +33,7 @@ A full virtual enterprise environment using **VMware ESXi**, **OPNsense**,
 - OPNsense firewall with DNS, DHCP, routing  
 - Azure Entra ID / Hybrid identity testing  
 
-📄 Project folder: [enterprise-infrastructure](Home-Lab/enterprise-infrastructure/) 
+📄 Project folder: [enterprise-infrastructure](../Home-Lab/enterprise-infrastructure/) 
 
 ---
 
@@ -45,7 +45,7 @@ Private cloud service hosted on **Ubuntu** with **MariaDB** and **Apache**.
 - SQL hardening & UFW configuration  
 - Local network access & dashboard setup  
 
-📄 Project folder: [nextcloud](Home-Lab/nextcloud/)  
+📄 Project folder: [nextcloud](../Home-Lab/nextcloud/)  
 
 ---
 
