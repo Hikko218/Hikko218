@@ -1,62 +1,76 @@
-💻 Hi, I'm Heiko Ries  
+# 💻 Hi, I'm Heiko Ries
 
-I'm an aspiring **IT Administrator** with a strong interest in **Microsoft hybrid infrastructure, networking, and cloud integration**.  
-Coming from a background in **mechanical engineering and leadership**, I bring a structured, hands-on approach to learning and system management.
+Aspiring **IT Support Specialist / System Administrator** with a strong focus on  
+**Windows Server, Active Directory, networking, and practical infrastructure work**.
 
-Through my **home lab** and certification studies, I’m building solid experience in **Windows Server administration, Active Directory, PowerShell automation**, and **network troubleshooting** — preparing for real-world IT infrastructure roles.
-
----
-
-🚀 **About Me**
-
-🧰 Background in mechanical engineering & team leadership  
-🖥️ Focus: Microsoft 365 · Windows Server · Active Directory · Networking · Cloud Integration  
-☁️ Certified: Microsoft 365 Fundamentals · AWS Cloud Practitioner · CompTIA Network+   
-🧱 Home Lab setup for hands-on learning:
-- Windows Server 2025 (GUI & Core) – domain & file management  
-- Windows 11 clients – GPO, deployment & troubleshooting  
-- Linux troubleshooting server – cross-platform networking practice  
+After several years in mechanical engineering and technical team leadership,  
+I’m now building a career in IT — backed by a growing **HomeLab environment**,  
+realistic enterprise simulations, and foundational IT certifications.
 
 ---
 
-⚙️ **Current Projects**
+## 🚀 About Me
 
-1. 🧩 Windows Server Hybrid Lab  
-   Domain, file, and user management with hybrid cloud integration (Azure AD Connect)  
-   👉 *In progress – documenting setup and configurations*
-
-2. 🖧 Network Troubleshooting Practice  
-   Simulating real-world network and DNS issues within the lab environment  
-
-3. 🛠 PowerShell Automation  
-   Automating server setup and user provisioning tasks  
+- 🔧 Hands-on experience with Windows Server administration (AD DS, GPO, WSUS)
+- 🌐 Networking basics: VLANs, firewall rules, routing, troubleshooting  
+- 🖥️ Managing Windows 11 clients in domain environments  
+- 🐧 Comfortable with Linux for hosting services (Nextcloud, MariaDB, Apache)  
+- 📘 Strong focus on learning, documenting, and building repeatable setups  
+- ⚙️ Previous experience in technical leadership & structured problem solving
 
 ---
 
-📚 **Certifications**
+## 🏗️ HomeLab Projects
 
-- Microsoft 365 Fundamentals ✅  
-- AWS Cloud Practitioner ✅  
-- CompTIA Network+ ✅   
+### **1️⃣ Enterprise Infrastructure Lab**  
+A full virtual enterprise environment using **VMware ESXi**, **OPNsense**,  
+**Windows Server 2025**, and **Active Directory**.
 
----
+**Includes:**  
+- VLAN segmentation (Server, IT, HR, Management)  
+- Windows Server DC, File Server, WSUS, Management Server  
+- GPO management and client integration  
+- OPNsense firewall with DNS, DHCP, routing  
+- Azure Entra ID / Hybrid identity testing  
 
-🗂 **Previous Cloud Projects**
-
-Before specializing in IT administration, I explored **AWS Cloud and Infrastructure as Code** concepts.  
-These projects reflect my foundation in **networking, cloud architecture, and automation**, which continues to support my current work.
-
-- High Availability Web App Deployment – ECS, RDS, ALB (HTTPS/ACM)  
-- Secure VPC Architecture – Public/Private Subnets, Flow Logs, IAM Policies  
-- Cloud Monitoring & Security – S3, CloudFront, CloudWatch, GuardDuty  
-- Terraform Infrastructure as Code (automation of all above)
+📄 Project folder: `enterprise-infrastructure/`
 
 ---
 
-🌐 **Contact**
+### **2️⃣ Self-Hosted Nextcloud Project**  
+Private cloud service hosted on **Ubuntu** with **MariaDB** and **Apache**.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/heiko-ries-b35778374)  
+**Includes:**  
+- Classic Nextcloud installation (no Docker)  
+- SQL hardening & UFW configuration  
+- Local network access & dashboard setup  
+
+📄 Project folder: `nextcloud/`
 
 ---
 
-📄 *Currently documenting my progress toward becoming a Microsoft-focused Systems Administrator with practical hybrid infrastructure experience.*
+## 📚 Certifications
+
+- **CompTIA Network+**  
+- **Microsoft 365 Fundamentals**  
+- **AWS Cloud Practitioner**  
+- **AEVO Instructor Certification**
+
+---
+
+## 🔧 Skills & Tools
+
+- **Windows Server 2025 / 2019**  
+- **Active Directory, DNS, DHCP, GPO**  
+- **OPNsense Firewall, VLANs, Routing**  
+- **VMware ESXi virtualization**  
+- **PowerShell (beginner/learning)**  
+- **Linux administration basics**  
+- **MariaDB/MySQL, Apache**  
+
+---
+
+## 🌐 Contact
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/heiko-ries-b35778374  
+
