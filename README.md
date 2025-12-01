@@ -22,7 +22,24 @@ realistic enterprise simulations, and foundational IT certifications.
 
 ## 🏗️ HomeLab Projects
 
-### **1️⃣ Enterprise Infrastructure Lab**  
+---
+### **1️⃣ HomeLab Core Infrastructure
+
+A modular and scalable **virtualization and network platform** running on **Proxmox** and **VMware ESXi**, providing the foundation for all lab services and projects.
+
+**Includes:**  
+- Multi-host virtualization (ESXi + Proxmox cluster)  
+- **VLAN-based segmentation** for secure network zoning  
+- **Centralized monitoring** for server and network health   
+- **IPMI + Management VLAN** for out-of-band administration  
+- **GPU node** for AI/LLM workloads on Ubuntu Server  
+
+🎯 Goal: Build, test and automate **enterprise-grade architectures** in a controlled lab environment.
+
+📄 Project folder: [HomeLab](https://github.com/Hikko218/Home-Lab/tree/main/HomeLab_Hardware) 
+
+---
+### **2️⃣ Enterprise Infrastructure Lab**  
 A full virtual enterprise environment using **VMware ESXi**, **OPNsense**,  
 **Windows Server 2025**, and **Active Directory**.
 
@@ -37,7 +54,7 @@ A full virtual enterprise environment using **VMware ESXi**, **OPNsense**,
 
 ---
 
-### **2️⃣ Self-Hosted Nextcloud Project**  
+### **3️⃣ Hosted Nextcloud Project**  
 Private cloud service hosted on **Ubuntu** with **MariaDB** and **Apache**.
 
 **Includes:**  
