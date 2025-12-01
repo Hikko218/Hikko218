@@ -23,7 +23,7 @@ realistic enterprise simulations, and foundational IT certifications.
 ## 🏗️ HomeLab Projects
 
 ---
-### **1️⃣ HomeLab Core Infrastructure
+### **1️⃣ HomeLab Core Infrastructure**
 
 A modular and scalable **virtualization and network platform** running on **Proxmox** and **VMware ESXi**, providing the foundation for all lab services and projects.
 
