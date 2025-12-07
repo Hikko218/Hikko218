@@ -48,7 +48,8 @@ A full virtual enterprise environment using **VMware ESXi**, **OPNsense**,
 - Windows Server DC, File Server, WSUS, Management Server  
 - GPO management and client integration  
 - OPNsense firewall with DNS, DHCP, routing  
-- Azure Entra ID / Hybrid identity testing  
+- Azure Entra ID / Hybrid identity testing
+- Icinga Monitoring  
 
 📄 Project folder: [enterprise-infrastructure](https://github.com/Hikko218/Home-Lab/tree/main/enterprise-infrastructure) 
 
