@@ -20,50 +20,9 @@ realistic enterprise simulations, and foundational IT certifications.
 
 ---
 
-## 🏗️ HomeLab Projects
+## 🏗️ HomeLab Infrastructure Portfolio
 
----
-### **1️⃣ HomeLab Core Infrastructure**
-
-A modular and scalable **virtualization and network platform** running on **Proxmox** and **VMware ESXi**, providing the foundation for all lab services and projects.
-
-**Includes:**  
-- Multi-host virtualization (ESXi + Proxmox cluster)  
-- **VLAN-based segmentation** for secure network zoning  
-- **Centralized monitoring** for server and network health   
-- **IPMI + Management VLAN** for out-of-band administration  
-- **GPU node** for AI/LLM workloads on Ubuntu Server  
-
-🎯 Goal: Build, test and automate **enterprise-grade architectures** in a controlled lab environment.
-
-📄 Project folder: [HomeLab](https://github.com/Hikko218/Home-Lab/tree/main/HomeLab_Hardware) 
-
----
-### **2️⃣ Enterprise Infrastructure Lab**  
-A full virtual enterprise environment using **VMware ESXi**, **OPNsense**,  
-**Windows Server 2025**, and **Active Directory**.
-
-**Includes:**  
-- VLAN segmentation (Server, IT, HR, Management)  
-- Windows Server DC, File Server, WSUS, Management Server  
-- GPO management and client integration  
-- OPNsense firewall with DNS, DHCP, routing  
-- Azure Entra ID / Hybrid identity testing
-- Icinga Monitoring  
-
-📄 Project folder: [enterprise-infrastructure](https://github.com/Hikko218/Home-Lab/tree/main/enterprise-infrastructure) 
-
----
-
-### **3️⃣ Hosted Nextcloud Project**  
-Private cloud service hosted on **Ubuntu** with **MariaDB** and **Apache**.
-
-**Includes:**  
-- Classic Nextcloud installation (no Docker)  
-- SQL hardening & UFW configuration  
-- Local network access & dashboard setup  
-
-📄 Project folder: [nextcloud](https://github.com/Hikko218/Home-Lab/tree/main/nextcloud)  
+[homelab-portfolio](https://github.com/Hikko218/homelab-portfolio)
 
 ---
 
