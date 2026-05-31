@@ -42,8 +42,7 @@ realistic enterprise simulations, and foundational IT certifications.
 - **OPNsense Firewall, VLANs, Routing**  
 - **VMware ESXi virtualization**  
 - **PowerShell (beginner/learning)**  
-- **Linux administration basics**  
-- **MariaDB/MySQL, Apache**  
+- **Linux administration basics**   
 
 ---
 
