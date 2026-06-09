@@ -1,6 +1,6 @@
 # 💻 Hi, I'm Heiko Ries
 
-Aspiring **IT Support Specialist / System Administrator** with a strong focus on  
+**IT Support Specialist / System Administrator** with a strong focus on  
 **Windows Server, Active Directory, networking, and practical infrastructure work**.
 
 After several years in mechanical engineering and technical team leadership,  
